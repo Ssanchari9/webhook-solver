@@ -47,10 +47,5 @@ src/main/java/com/example/webhooksolver/
 
 ## Download
 
-You can download the latest JAR file from the [Releases](https://github.com/yourusername/webhook-solver/releases) page.
+Direct download link: [webhook-solver-0.0.1-SNAPSHOT.jar](https://github.com/Ssanchari9/webhook-solver/releases/download/v1.0.0/webhook-solver-0.0.1-SNAPSHOT.jar)
 
-Direct download link: [webhook-solver-0.0.1-SNAPSHOT.jar](https://github.com/yourusername/webhook-solver/releases/download/v1.0.0/webhook-solver-0.0.1-SNAPSHOT.jar)
-
-## License
-
-MIT License 
